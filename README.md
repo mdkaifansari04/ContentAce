@@ -1,6 +1,6 @@
 # ContentAce - Power Your Creativity
 
-[![ContentAce Banner](.github/assets/mainBanner.png)](https://github.com/mdkaifansari04/ContentAce)
+[![ContentAce Banner](https://res.cloudinary.com/dngfmzv2g/image/upload/v1720385460/Projects/ContentAce_Banner_hwsh7v.png)](https://github.com/mdkaifansari04/ContentAce)
 
 ContentAce is your ultimate tool for generating captivating content across various platforms. From YouTube to social media, blogs to emails, ContentAce leverages the power of AI to streamline your content creation process. Whether you're a creator, marketer, or business, ContentAce helps you craft engaging and effective content effortlessly.
 
