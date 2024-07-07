@@ -75,8 +75,6 @@ Please wait a while I have to deploy the backend to AWS and manage containers ov
 
 ContentAce is a platform designed to help content creators, marketers, and businesses generate compelling content for various platforms. Leveraging modern web technologies, it provides users with an intuitive interface and powerful AI-driven features to enhance content creation.
 
-[![ContentAce Banner](.github/assets/browser.png)](https://github.com/mdkaifansari04/ContentAce)
-
 ## 🔨 What does it do?
 
 ContentAce enables users to create engaging content for YouTube, blogs, social media, and emails. The platform supports various features to streamline the content creation process and enhance productivity.
