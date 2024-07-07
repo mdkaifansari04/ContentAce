@@ -1,205 +1,178 @@
-<a id="readme-top"></a>
+# ContentAce - Power Your Creativity
 
-<!-- PROJECT SHIELDS -->
+[![ContentAce Banner](.github/assets/mainBanner.png)](https://github.com/mdkaifansari04/ContentAce)
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+ContentAce is your ultimate tool for generating captivating content across various platforms. From YouTube to social media, blogs to emails, ContentAce leverages the power of AI to streamline your content creation process. Whether you're a creator, marketer, or business, ContentAce helps you craft engaging and effective content effortlessly.
 
-<!-- PROJECT LOGO -->
-<br />
+## ⚡ Project Status
+
 <div align="center">
-  <a href="https://github.com/ChiragAgg5k/synapse">
-    <img src="assets/1.png" alt="Logo" width="600" height="250">
-  </a>
 
-  <h3 align="center">Synapse</h3>
+![GitHub contributors](https://img.shields.io/github/contributors/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![license MIT](https://img.shields.io/github/license/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![Stargazers](https://img.shields.io/github/stars/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![Forks](https://img.shields.io/github/forks/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![GitHub Open issues](https://img.shields.io/github/issues/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![GitHub Closed issues](https://img.shields.io/github/issues-closed/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![GitHub top language](https://img.shields.io/github/languages/top/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
 
-  <p align="center">
-    A versatile playground for exploring and interacting with various AI-powered chatbots.
-    <br />
-    <a href="https://github.com/ChiragAgg5k/synapse"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ChiragAgg5k/synapse">View Demo</a>
-    ·
-    <a href="https://github.com/ChiragAgg5k/synapse/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/ChiragAgg5k/synapse/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+## Table of Contents
 
-## Video demo
+- [Technology Used](#-technology-used)
+- [Live Demo](#live-demo-)
+- [Introduction](#-introduction)
+- [What does it do?](#-what-does-it-do)
+  - [Features](#features)
+  - [Benefits](#benefits)
+- [License](#%EF%B8%8F-license)
+- [How to Contribute?](#-how-to-contribute)
+  - [Setup](#setup)
+- [Top Contributors](#-top-contributors)
+- [Support](#-support)
 
-https://github.com/ChiragAgg5k/synapse/assets/110609663/99808ebc-3a6f-40ad-9cf3-3e84eaebb10a
+## 🚀 Technology Used
 
-Or you can check the video on youtube - [here](https://youtu.be/MH31glwO6oE)
+<div align="center">
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Clerk](https://img.shields.io/badge/Clerk-512DA8?style=for-the-badge&logo=clerk&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
 
+- [Next.js 14](https://nextjs.org) - A React framework for building web applications with server-side rendering.
+- [React Query](https://react-query.tanstack.com) - Data fetching library for React.
+- [Zustand](https://zustand.surge.sh) - State management library for React.
+- [Node.js](https://nodejs.org) - JavaScript runtime for building scalable network applications.
+- [Express](https://expressjs.com) - Web framework for Node.js.
+- [MongoDB](https://www.mongodb.com) - NoSQL database for modern web applications.
+- [Zod](https://zod.dev) - TypeScript-first schema declaration and validation library.
+- [Tailwind CSS](https://tailwindcss.com) - Utility-first CSS framework for rapidly building custom user interfaces.
+- [ShadCN](https://shadcn.dev) - Utility-first framework for building UI components.
+- [JWT](https://jwt.io) - Compact, URL-safe means of representing claims to be transferred between two parties.
+- [Framer Motion](https://www.framer.com/motion) - Animation library for React.
+- [TypeScript](https://www.typescriptlang.org) - Typed superset of JavaScript that compiles to plain JavaScript.
 
-<!-- ABOUT THE PROJECT -->
+## Live Demo 💻
+Please wait a while I have to deploy the backend to AWS and manage containers over there and will update it in a while 😅
 
-## About The Project
+<br />
+<br />
 
-Synapse is a versatile playground for exploring and interacting with various AI-powered chatbots. This project allows users to experiment with different chatbot models, providing a unified interface for interaction and analysis.
+## 👋 Introduction
 
-### Built With
+ContentAce is a platform designed to help content creators, marketers, and businesses generate compelling content for various platforms. Leveraging modern web technologies, it provides users with an intuitive interface and powerful AI-driven features to enhance content creation.
 
-- [![Python][Python.org]][Python-url]
-- [![Poetry][Poetry.org]][Poetry-url]
+[![ContentAce Banner](.github/assets/browser.png)](https://github.com/mdkaifansari04/ContentAce)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🔨 What does it do?
 
-<!-- GETTING STARTED -->
+ContentAce enables users to create engaging content for YouTube, blogs, social media, and emails. The platform supports various features to streamline the content creation process and enhance productivity.
 
-## Getting Started
+### Features
 
-To get a local copy up and running, follow these steps.
+- **YouTube Content Generator**: Generate ideas, titles, tags, descriptions, and more for YouTube videos.
+- **Blog Content Generator**: Create blog posts, ideas, introductions, conclusions, and more.
+- **Email Generator**: Draft cold emails, follow-ups, referral emails, and more.
+- **Social Media Content Generator**: Generate post ideas, captions, hashtags, and more for social media platforms.(Yet to come)
+- **Product Description Generator**: Craft compelling product descriptions for e-commerce sites. (Yet to come)
 
-### Prerequisites
+### Benefits
 
-Make sure you have the following installed:
+- **Time-Saving**: Quickly generate high-quality content without spending hours brainstorming.
+- **Consistency**: Maintain a consistent tone and style across all your content.
+- **SEO Optimization**: Generate SEO-friendly content to improve your online visibility.
+- **Enhanced Creativity**: Get inspired with fresh ideas and creative suggestions from AI.
 
-- Python 3.8+
-- Poetry
+## 🛡️ License
 
-### Installation
+ContentAce is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/ChiragAgg5k/synapse.git
-   ```
-2. Navigate to the project directory
-   ```sh
-   cd synapse
-   ```
-3. Install dependencies
-   ```sh
-   poetry install
-   ```
+### Setup
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+To set up the development environment, follow these steps:
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-To start the application, run:
+1. Clone the repository:
 
 ```sh
-poetry run python synapse/main.py
+git clone https://github.com/mdkaifansari04/ContentAce.git
+cd ContentAce
 ```
 
-Follow the on-screen instructions to begin interacting with the chatbots.
+2. Set up the MindsDB container running in the background.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+3. Create the MindsDB model:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+```sql
+-- Used for creating the model
+CREATE MODEL contentace
+PREDICT sentiment
+USING
+  engine = 'minds_endpoint_engine',
+  model_name = 'mistral-7b',
+  prompt_template = 'You are an ai-model that works on system prompt : {{systemPrompt}} and give descriptive answer of the given question : {{question}}';
+```
 
-<!-- ROADMAP -->
+4. Insert a prompt into the MindsDB model:
 
-## Roadmap
+```sql
+-- Prompt
+SELECT question, answer
+FROM contentaceaimodel
+WHERE systemPrompt = 'You are an AI assistant helping a YouTuber who creates videos on web development. The YouTuber aims to educate people on web development concepts and provide demonstrations. The YouTuber is looking for creative and engaging video ideas to help their audience learn effectively.' and question = 'Give some youtube content ideas on web development';
+```
 
-- [ ] Add more chatbot integrations
-- [ ] Improve user interface
-- [ ] Add support for voice interaction
-- [ ] Multi-language support
+5. Navigate to the `frontend` folder and set up the environment variables in a `.env` file:
 
-See the [open issues](https://github.com/ChiragAgg5k/synapse/issues) for a full list of proposed features (and known issues).
+```sh
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_HOST_URL=http://localhost:5000/api/v1
+NEXT_PUBLIC_EMAILJS_SERVICE_ID=
+NEXT_PUBLIC_EMAILJS_CONTACT_TEMPLATE_ID=
+NEXT_PUBLIC_EMAILJS_FEATURE_TEMPLATE_ID=
+NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=
+```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+6. Navigate to the `backend` folder and set up the environment variables in a `.env` file:
 
-<!-- CONTRIBUTING -->
+```sh
+PORT=5000
+MONGO_URI=
+SECRET_KEY=
+GROQ_API_KEY=
+MINDSDB_API_KEY=
+MINDSDB_BASE_URL=http://127.0.0.1:47334/api/projects/mindsdb/models/contentace/predict
+```
 
-## Contributing
+7. Start the backend server:
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+```sh
+cd backend
+npm install
+npm run dev
+```
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+8. Start the frontend server:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+```sh
+cd frontend
+npm install
+npm run dev
+```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🙏🏽 Support
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Chirag Aggarwal - [@ChiragAgg5k](https://twitter.com/ChiragAgg5k) - chirag@example.com
-
-Project Link: [https://github.com/ChiragAgg5k/synapse](https://github.com/ChiragAgg5k/synapse)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- [Poetry](https://python-poetry.org)
-- [MindsDB](https://mindsdb.com/)
-- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/ChiragAgg5k/synapse.svg?style=for-the-badge
-[contributors-url]: https://github.com/ChiragAgg5k/synapse/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ChiragAgg5k/synapse.svg?style=for-the-badge
-[forks-url]: https://github.com/ChiragAgg5k/synapse/network/members
-[stars-shield]: https://img.shields.io/github/stars/ChiragAgg5k/synapse.svg?style=for-the-badge
-[stars-url]: https://github.com/ChiragAgg5k/synapse/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ChiragAgg5k/synapse.svg?style=for-the-badge
-[issues-url]: https://github.com/ChiragAgg5k/synapse/issues
-[license-shield]: https://img.shields.io/github/license/ChiragAgg5k/synapse.svg?style=for-the-badge
-[license-url]: https://github.com/ChiragAgg5k/synapse/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ChiragAgg5k
-[product-screenshot]: images/screenshot.png
-[Python.org]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-[Python-url]: https://python.org
-[Poetry.org]: https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=python&logoColor=blue
-[Poetry-url]: https://python-poetry.org
-[Streamlit.io]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
-[Streamlit-url]: https://streamlit.io
+This project needs your support! Please star 🌟 this repository if you love it.
