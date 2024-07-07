@@ -8,16 +8,16 @@ ContentAce is your ultimate tool for generating captivating content across vario
 
 <div align="center">
 
-![GitHub contributors](https://img.shields.io/github/contributors/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![license MIT](https://img.shields.io/github/license/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![Stargazers](https://img.shields.io/github/stars/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![Forks](https://img.shields.io/github/forks/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![GitHub Open issues](https://img.shields.io/github/issues/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![GitHub Closed issues](https://img.shields.io/github/issues-closed/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![GitHub PR Open](https://img.shields.io/github/issues-pr/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![GitHub PR closed](https://img.shields.io/github/issues-pr-closed/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
-![GitHub top language](https://img.shields.io/github/languages/top/mdkaifansari04/ContentAce?style=for-the-badge&color=%2314B8A5)
+![GitHub contributors](https://img.shields.io/github/contributors/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![license MIT](https://img.shields.io/github/license/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![Stargazers](https://img.shields.io/github/stars/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![Forks](https://img.shields.io/github/forks/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![GitHub Open issues](https://img.shields.io/github/issues/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![GitHub Closed issues](https://img.shields.io/github/issues-closed/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
+![GitHub top language](https://img.shields.io/github/languages/top/mdkaifansari04/ContentAce?style=for-the-badge&color=%2300B06D)
 
 </div>
 
