@@ -1,0 +1,3 @@
+interface CommonPropTypes {
+  className?: string;
+}
